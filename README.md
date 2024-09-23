@@ -16,7 +16,7 @@ POST : http://localhost:8080/books
 
 ---
 
-PUT : http://localhost:8080/books/3
+PUT : http://localhost:8080/books/{id}
 
 ```json
 {
@@ -27,4 +27,4 @@ PUT : http://localhost:8080/books/3
 
 ---
 
-DELETE : http://localhost:8080/books/13
+DELETE : http://localhost:8080/books/{id}
