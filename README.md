@@ -28,3 +28,10 @@ PUT : http://localhost:8080/books/{id}
 ---
 
 DELETE : http://localhost:8080/books/{id}
+
+---
+## How to run ?
+
+```bash
+go run main.go
+```
